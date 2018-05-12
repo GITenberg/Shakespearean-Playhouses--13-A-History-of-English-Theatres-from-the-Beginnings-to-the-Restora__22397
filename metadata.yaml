@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25308
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Quincy_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22397#Shakespearean-Playhouses--13-A-History-of-English-Theatres-from-the-Beginnings-to-the-Restora_
 gutenberg_bookshelf:
 - Architecture
 - United Kingdom
